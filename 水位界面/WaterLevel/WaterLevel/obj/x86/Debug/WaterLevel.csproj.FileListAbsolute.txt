@@ -1,0 +1,16 @@
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\bin\x86\Debug\WaterLevel.exe.config
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\bin\x86\Debug\WaterLevel.exe
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\bin\x86\Debug\WaterLevel.pdb
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.csproj.ResolveComReference.cache
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.Display.resources
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.WaterLevel.resources
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.Welcome.resources
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.Properties.Resources.resources
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.csproj.GenerateResource.Cache
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.exe
+C:\Users\stone\Desktop\水位界面\WaterLevel\WaterLevel\obj\x86\Debug\WaterLevel.pdb
